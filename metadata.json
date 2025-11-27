@@ -1,0 +1,4 @@
+{
+  "name": "BitRPC GenAI",
+  "description": "An AI-powered development tool for generating python-bitcoinrpc scripts, simulating RPC calls, and assisting with Bitcoin Core integration."
+}
